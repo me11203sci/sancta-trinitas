@@ -1,2 +1,4 @@
 # On the Dogma of the Blessed Trinity
-To what [[Telos|end]] does [[Adam|man]] upon this earth sojourn, subject to toil ceaselessly in the company of thistles and thorns, futile in staving off the dust beneath his feet which hungrily anticipates his return? Impelled by restlessness .
+To what [[Telos|end]] does [[Adam|man]] upon this earth sojourn, subject to toil ceaselessly in the company of thistles and thorns, futile in staving off the dust which hungrily anticipates his return? Impelled by an intrinsic [[Motion|restlessness]] he may pass over the face of [[Natural Order|nature]] and her [[Creature|creatures]], finding only similitude in wanting and left with only a deeper sense of dissatisfaction. Turning inward, perhaps delighted to preoccupy himself with [[Intellect|intellection]], soon scrutinizing himself only to collapse in confronting that brutal [[Evil|nothingness]] that sets him apart from mere animals and from which precipitates his demise. Cut to the heart in an agony honed by his reason, he cries out in anguish to a transcendent existence that must [[Existence of God|of logical necessity]] [[YHWH|be]].
+
+![[APersonalGOD.webp]]
