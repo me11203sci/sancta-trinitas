@@ -1,1 +1,2 @@
-# On the Doctrine of the Holy Trinity
+# On the Dogma of the Blessed Trinity
+To what [[Telos|end]] does [[Adam|man]] upon this earth sojourn, subject to toil ceaselessly in the company of thistles and thorns, futile in staving off the dust beneath his feet which hungrily anticipates his return? Impelled by restlessness .
