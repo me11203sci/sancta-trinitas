@@ -55,7 +55,6 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
-      Plugin.Assets(),
       Plugin.FrontMatter(),
       Plugin.Citations({ bibliographyFile: "./content/bibliography.bib", linkCitations: true }),
       Plugin.CreatedModifiedDate({
