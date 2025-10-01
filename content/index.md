@@ -15,7 +15,7 @@ Huermenutic.
 
 ![[media/EcceHomo.jpg]]
 
-# APOSTOLI ET PHILOSOPHVS
+# ADOROTE DEVOTE LATENS DEITAS
 Syllogism.
 
 ![[media/DoctorAngelicum.jpg]]
@@ -23,7 +23,8 @@ Syllogism.
 # EGO SVM QVI SVM
 Ontology.
 
+![[media/EtNonCombureretur.jpg]]
 # QVIS EST SICVT DEVS
 Lorem ipsem.
 
-# 
+![[media/FiliusMeusDilectus.JPG]]
