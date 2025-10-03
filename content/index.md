@@ -7,11 +7,30 @@ End.
 ![[media/UnusPersonalisDeus.webp]]
 # RATIO VT IMAGO DEI
 Human.
+Anthropology.
+[[Essence]]. [[Nature]].
+Hylomorphism. Matter. Form. Body. Soul.
 Reason.
+Mystery.
+Epistomolgy.
 
 ![[media/VerusDeusEtVerusHomo.jpg]]
 # QVID EST VERTIAS
-Huermenutic.
+[[Truth]].
+[[Principle of Non-contradiction]].
+[[Meaning]].
+[[Huermenutic]].
+[[Inductive Reasoning]].
+[[Scripture]].
+[[Inspiration]].
+[[Exegesis]]. [[Eisegisis]].
+[[Doctrine]]. [[Dogma]].
+Senses of Scripture.
+Literal. Proper. Improper. The Bible is literally true.
+Historical-Grammatical Critical Method.
+Spiritual. Allegorical. Moral. Anagolgical.
+Related to Faith, Hope, and Charity.
+Spiritual Senses cannot be used to prove doctrine.
 
 ![[media/EcceHomo.jpg]]
 
@@ -25,6 +44,6 @@ Ontology.
 
 ![[media/EtNonCombureretur.jpg]]
 # QVIS EST SICVT DEVS
-Lorem ipsem.
+Person.
 
 ![[media/FiliusMeusDilectus.JPG]]
