@@ -16,8 +16,12 @@ Epistomolgy.
 
 ![[media/VerusDeusEtVerusHomo.jpg]]
 # II - QVID EST VERTIAS
+>I am the way, and the truth, and the life. No man cometh to the Father, but by me. 
+- John 14:6 
+	- [Douay-Rheims + Latin Vulgate](https://www.drbo.org/cgi-bin/d?b=drl&bk=50&ch=14&l=6-#x) 
+	- [Greek](https://biblehub.com/interlinear/apostolic/john/14.htm)
+
 [[Truth]].
-I am the way, the truth, and the life.
 Jn 14:6
 [[Principle of Non-contradiction]].
 2 Corinthians 1:18-19
