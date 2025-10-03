@@ -17,7 +17,8 @@ Epistomolgy.
 ![[media/VerusDeusEtVerusHomo.jpg]]
 # QVID EST VERTIAS
 [[Truth]].
-[[Principle of Non-contradiction]].
+[[Principle of Non-contradiction]]. 
+2 Corinthians 1:18-19
 [[Meaning]].
 [[Huermenutic]].
 [[Inductive Reasoning]].
