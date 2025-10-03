@@ -5,7 +5,7 @@ date: 2025-9-19
 End.
 
 ![[media/UnusPersonalisDeus.webp]]
-# RATIO VT IMAGO DEI
+# I - RATIO VT IMAGO DEI
 Human.
 Anthropology.
 [[Essence]]. [[Nature]].
@@ -15,9 +15,11 @@ Mystery.
 Epistomolgy.
 
 ![[media/VerusDeusEtVerusHomo.jpg]]
-# QVID EST VERTIAS
+# II - QVID EST VERTIAS
 [[Truth]].
-[[Principle of Non-contradiction]]. 
+I am the way, the truth, and the life.
+Jn 14:6
+[[Principle of Non-contradiction]].
 2 Corinthians 1:18-19
 [[Meaning]].
 [[Huermenutic]].
@@ -26,17 +28,18 @@ Epistomolgy.
 [[Inspiration]].
 [[Exegesis]]. [[Eisegisis]].
 [[Doctrine]]. [[Dogma]].
+Material versus Formal [[Sufficiency]].
 Senses of Scripture.
-Literal. Proper. Improper. The Bible is literally true.
+[[Literal Sense]]. Proper. Improper. The Bible is literally true. Catechism 116.
 Historical-Grammatical Critical Method.
-Spiritual. Allegorical. Moral. Anagolgical.
+[[Spiritual Sense]]. Allegorical. Moral. Anagolgical.
 Related to Faith, Hope, and Charity.
 Spiritual Senses cannot be used to prove doctrine.
 
 ![[media/EcceHomo.jpg]]
 
 # ADOROTE DEVOTE LATENS DEITAS
-Syllogism.
+Syllogism. Analogy.
 
 ![[media/DoctorAngelicum.jpg]]
 
