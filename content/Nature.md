@@ -1,6 +1,6 @@
 ---
 date: 2025-10-03
-tags: [Theology, Philosophy]
+tags: [Philosophy]
 TO-DO: true
 ---
 .

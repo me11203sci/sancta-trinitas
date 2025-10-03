@@ -1,8 +1,8 @@
 ---
 date: 2025-10-03
-tags: [Theology, Philosophy]
+tags: [Philosophy]
 TO-DO: true
 ---
-That which something is.
+That which [[Existence|something]] is.
 - "...properly denotes the intrinsic constitutive elements by which a thing is what it is and is distinguished from every other" [@CENature]
 ### References
