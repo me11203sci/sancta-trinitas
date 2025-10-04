@@ -4,7 +4,7 @@ date: 2025-10-3
 ---
 ![[media/UnusPersonalisDeus.webp]]
 
-End.
+End. 
 # I - RATIO VT IMAGO DEI
 ![[media/VerusDeusEtVerusHomo.jpg]]
 
@@ -61,7 +61,7 @@ Historical-Grammatical Critical Method.
 Related to Faith, Hope, and Charity.
 Warning, Spiritual Senses cannot be used to prove doctrine. St. Thomas.
 
-🚧 WEBSITE UNDER CONSTRUCTION🚧
+# 🚧 WEBSITE UNDER CONSTRUCTION🚧
 
 # III - ADORO TE DEVOTE LATENS DEITAS
 ![[media/DoctorAngelicum.jpg]]
