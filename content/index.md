@@ -17,7 +17,6 @@ Mystery.
 Epistomolgy.
 # II - QVID EST VERTIAS
 ![[media/EcceHomo.jpg]]
-
 >I am the way, and the truth, and the life. No man cometh to the Father, but by me.
 - John 14:6 
 	- [Douay-Rheims + Latin Vulgate](https://www.drbo.org/cgi-bin/d?b=drl&bk=50&ch=14&l=6-#x) 
