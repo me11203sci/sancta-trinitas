@@ -34,7 +34,6 @@ But Lord, what is [[Truth|truth]]?
 [[Inductive Reasoning]].
 
 > Understanding this first, that no prophecy of scripture is made by private interpretation,
-> 
 > for prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Ghost.
 - 2 Peter 1:20–21
 	- [Douay-Rheims + Latin Vulgate](https://www.drbo.org/cgi-bin/d?b=drl&bk=68&ch=1&l=20-#x)
@@ -62,14 +61,16 @@ Historical-Grammatical Critical Method.
 Related to Faith, Hope, and Charity.
 Warning, Spiritual Senses cannot be used to prove doctrine. St. Thomas.
 
+🚧 WEBSITE UNDER CONSTRUCTION🚧
+
 # III - ADORO TE DEVOTE LATENS DEITAS
 ![[media/DoctorAngelicum.jpg]]
 
 Syllogism. Analogy.
 # IV - EGO SVM QVI SVM
 ![[media/EtNonCombureretur.jpg]]
-Ontology.
 
+Ontology.
 # V - QVIS EST SICVT DEVS
 ![[media/FiliusMeusDilectus.JPG]]
 
