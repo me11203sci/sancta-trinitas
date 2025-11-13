@@ -1,79 +1,33 @@
 ---
-title: DE DOGMATE BEATAE TRINITATIS
-date: 2025-10-3
+title: STVDIVM SANCTAE SCRIPTVRAE
+date: 2025-11-12
 ---
-![[media/UnusPersonalisDeus.webp]]
+# Introduction
+Greetings. My name is **Melesio Albavera Del Castillo**, and I recently became a member of the Latin Rite of the One, Holy, Roman, and Apostolic Church. It concerns me that Holy Mother Church is often maligned as neglecting or even abandoning  Sacred Scripture wholesale in favor of traditions presumed to have arisen from accretion or ignorance. Such claims are especially distressing when one considers the rich and integrated understanding of our traditional exegetes, who, by grace, cultivated within themselves the living truth of Christ present throughout all of Scripture. As the swelling forces of the world continue to conspire against the Church, she has deemed it necessary to call forth from among the laity—her greatest contingent—those able to bear the responsibility of scholastic study.
 
-End. 
-Assume that scripture is the Word of God.
-For Good Catholics to comprehend the mystery fully, then explain it to those who doubt.
-# I - RATIO VT IMAGO DEI
-![[media/VerusDeusEtVerusHomo.jpg]]
-> Biblical text.
-- Book Chapter:Verse
-	- [Douay-Rheims + Latin Vulgate](https://www.drbo.org/drl/)
-	- [Greek](https://biblehub.com/interlinear/apostolic/)
-Human.
-Anthropology.
-[[Essence]]. [[Nature]].
-Hylomorphism. Matter. Form. Body. Soul.
-Reason.
-Epistemology.
-Mystery.
-Faith.
-Motives of Credibility.
-Notes.
-# II - QVID EST VERTIAS
-![[media/EcceHomo.jpg]]
->I am the way, and the truth, and the life. No man cometh to the Father, but by me.
-- John 14:6 
-	- [Douay-Rheims + Latin Vulgate](https://www.drbo.org/cgi-bin/d?b=drl&bk=50&ch=14&l=6-#x) 
-	- [Greek](https://biblehub.com/interlinear/apostolic/john/14.htm)
+However, given that I am a neophyte and the effects of the grace conferred to me at my confirmation are still nascent, it does not suit me to claim a position of authority from which to instruct my peers. Thus, the purpose of this website is to provide something of a cross between a [Substack](https://substack.com/about) and a [wiki](https://en.wikipedia.org/wiki/Wiki), where my venerable peers may find references and reflections intended to aid their edification.
 
-But Lord, what is [[Truth|truth]]? 
-> But God is faithful, for our preaching which was to you, was not, It is, and It is not.
-- 2 Corinthians 1:18-19
-	- [Douay-Rheims + Latin Vulgate](https://www.drbo.org/cgi-bin/d?b=drl&bk=54&ch=1&l=18-#x)
-	- [Greek](https://biblehub.com/interlinear/2_corinthians/1-18.htm)
+To navigate this site, one can either reference the list of general **Topics** below (which are comprised of individual studies) or utilize **Explorer** view to the left and search my notes.
+# Topics
+[[On the Dogma of the Blessed Trinity]]
 
-[[Law of Noncontradiction]].
-[[Meaning]].
-[[Huermenutic]].
-[[Inductive Reasoning]].
+[[On the Nature of Christ]]
 
-> Understanding this first, that no prophecy of scripture is made by private interpretation,
-> for prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Ghost.
-- 2 Peter 1:20–21
-	- [Douay-Rheims + Latin Vulgate](https://www.drbo.org/cgi-bin/d?b=drl&bk=68&ch=1&l=20-#x)
-	- [Greek](https://biblehub.com/interlinear/2_peter/1-20.htm)
+[[Against Scripture Alone]]
 
-[[Scripture]].
-[[Inspiration]].
+# Dedications
+***SANTCE PAVLVS, ORA PRO NOBIS***
 
+![[media/QuidMePersequeris.webp|512]]
 
-[[Exegesis]]. [[Eisegisis]].
-[[Doctrine]]. [[Dogma]].
-Material versus Formal [[Sufficiency]].
+***SANTCE HIERONYMVS, ORA PRO NOBIS***
 
+![[media/IgnorantiaScripturarumEstIgnorantiaChristi.jpg|512]]
 
-Senses of Scripture.
-[[Literal Sense]]. Proper. Improper. The Bible is literally true. Catechism 116.
-Historical-Grammatical Critical Method.
-[[Spiritual Sense]]. Allegorical. Moral. Anagolgical.
+***SANTCE AVGVSTINE, ORA PRO NOBIS***
 
-Related to Faith, Hope, and Charity.
-Warning, Spiritual Senses cannot be used to prove doctrine. St. Thomas.
+![[media/TolleLege.jpg|512]]
 
-# 🚧 WEBSITE UNDER CONSTRUCTION🚧
-# III - ADORO TE DEVOTE LATENS DEITAS
-![[media/DoctorAngelicum.jpg]]
+***SANTCE THOMAE AQVINATIS, ORA PRO NOBIS***
 
-Syllogism. Analogy.
-# IV - EGO SVM QVI SVM
-![[media/EtNonCombureretur.jpg]]
-
-Ontology.
-# V - QVIS EST SICVT DEVS
-![[media/FiliusMeusDilectus.JPG]]
-
-Person.
+![[media/BeneScripsistiDeMe.jpg|512]]
