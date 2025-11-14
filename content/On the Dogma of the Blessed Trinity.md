@@ -3,10 +3,8 @@ title: DE DOGMATE BEATAE TRINITATIS
 date: 2025-11-12
 ---
 ![[media/UnusPersonalisDeus.webp]]
-# TODO: Move to another article page and make index a more general bible study page
 
 [[Telos|End]]. 
-TODO: Work on website introduction.
 Assume that scripture is the Word of God.
 For Good Catholics to comprehend the mystery fully, then explain it to those who doubt.
 # I - RATIO VT IMAGO DEI
