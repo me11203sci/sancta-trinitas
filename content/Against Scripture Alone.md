@@ -60,7 +60,40 @@ Lorem ipsum.
 # IV - DOCENTES EOS SERVARE OMNIA
 ![[media/Trento.jpg|512]]
 
+What is scripture? Inspired writing which contains *materially* all revelation necessary for our salvation.
+
+What is sacred tradition? This Deposit as preached and taught, passed down orally. Not to be confused with Apostolic traditions.
+- Not merely old, but that which is presented as to be believed.
+- Not merely what experts on the faith taught, but explicitly what they affirmed as residing in the apostolic deposit. Not numeric, but moral consensus.
+- Virtual and formal truth. Not always explicit, but implicit. 
+What is the deposit of faith? Those truths which were taught by Christ through the Apostles.
+
 What is a Magisterium?
+Materially, it is composed of men in whom the Spirit who will conserve the revelation in the Church.
 
-Revelation. Ends require means. Physical (necessary) versus moral (sufficient).
+Ends of Revelation. Ends require means. Physical (necessary) versus moral (sufficient). Revisiting disposition.
 
+Instrumental cause of subject salvation (Christ's humanity). Sacraments as secondary instruments, for they proceed the primary cause.
+Mystical body of Christ: John 15:4-5. Col 2:19.
+
+These must ensure that teaching is pure (without err), universal, to command faith.
+
+There 3 types of messenger: herald (proclamation), notary (authentication), judge (authoritative).
+- office of proclamation (preaching): authorized laymen, deacons, and priest
+- office of notary: bishops/ordinary magisterium (basically demands submission of intellect and will)
+- Office of judge: acts of the extraordinary magisterium (demands faith)
+
+These are charisms, or gifts of the Spirit.
+
+Seen in scripture: 
+Matthew 28:18-10 
+- Internal help (with the Spirit) purity of preaching
+Mark 16:15-20
+- Notes of credibility
+Luke 24:47-50
+- Authentic
+- Notes of credibility
+John 20:21-23
+- Authority
+
+Rules of faith: remote (scripture and tradition) and proximate (magisterium.)
