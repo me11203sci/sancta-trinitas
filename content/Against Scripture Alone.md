@@ -1,6 +1,6 @@
 ---
 title: CONTRA SOLAM SCRIPTVRAM
-date: 11/13/25
+date: 11/21/25
 ---
 ![[media/SalutatioMeaManuPauli.jpg]]
 
@@ -19,7 +19,7 @@ His mission is given in [[Jesus (Sacred Name)|His Scared name]], thought to be a
 > For us men and for our salvation, he came down from heaven.
 - [The Niceno-Constantinopolitan Creed](https://www.usccb.org/beliefs-and-teachings/what-we-believe)
 
-But what is [[Salvation|salvation]]? This question may be taken in two senses, both [[objectively]] and [[subjectively]]; yet we shall begin by speaking in the objective order, wherein the [[terminus]] of our reflection is in Our Lord Himself. To acquire [[Knowledge|knowledge]] of anything, we must [[Discursion|discourse]] toward an understanding of its [[nature]], which is ordinarily achieved by considering its [[cause]], which are classically understood to be four-fold: 
+But what is [[Salvation|salvation]]? We may examine the question in two senses, both [[objectively]] and [[subjectively]]; yet we shall begin by speaking in the objective order, wherein the [[terminus]] of our reflection is in Our Lord Himself. To acquire [[Knowledge|knowledge]] of anything, we must [[Discursion|discourse]] toward an understanding of its [[nature]], which is ordinarily achieved by considering its [[cause]], which are classically understood to be four-fold: 
 - [[material]] (that of which something is composed),
 - [[formal]] (that by which something is),
 - [[efficient]] (or that which brings about change),
@@ -46,4 +46,3 @@ Lorem ipsum.
 # IV - DOCENTES EOS SERVARE OMNIA
 ![[media/Trento.jpg|512]]
 Lorem ipsum.
-

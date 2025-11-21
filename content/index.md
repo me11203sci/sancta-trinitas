@@ -15,50 +15,78 @@ To navigate this site, one can either reference the list of general **Topics** b
 # Dedications
 ***SANTCE PAVLVS, ORA PRO NOBIS***
 
-*That \[God\] would grant \[us\]
-according to the riches of his glory, 
-to be strengthened by his Spirit$\dots$
-That Christ may dwell by faith in \[our\] hearts;
-that being rooted and founded in charity,
-\[we\] may be able to comprehend, with all the saints,
-$\dots$the charity of Christ, which surpasseth all knowledge, 
-that \[we\] may be filled unto all the fullness of God.*
+*That \[God\] would grant \[us\]*
+
+*according to the riches of his glory,* 
+
+*to be strengthened by his Spirit$\dots$*
+
+*That Christ may dwell by faith in \[our\] hearts;*
+
+*that being rooted and founded in charity,*
+
+*\[we\] may be able to comprehend, with all the saints,*
+
+*$\dots$the charity of Christ, which surpasseth all knowledge,* 
+
+*that \[we\] may be filled unto all the fullness of God.*
 
 ![[media/QuidMePersequeris.webp|512]]
 
 ***SANTCE HIERONYMVS, ORA PRO NOBIS***
 
-*O Lord, show Your mercy to me and gladden my heart. 
-I am like the man on the way to Jericho who was overtaken by robbers, wounded and left for dead. 
-O Good Samaritan, come to my aid. 
-I am like the sheep that went astray. 
-O Good Shepherd, seek me out and bring me home in accord with Your will. 
-Let me dwell in Your house all the days of my life and praise You for ever and ever with those who are there.*
+*O Lord, show Your mercy to me and gladden my heart.*
+
+*I am like the man on the way to Jericho who was overtaken by robbers, wounded and left for dead.* 
+
+*O Good Samaritan, come to my aid.* 
+
+*I am like the sheep that went astray.* 
+
+*O Good Shepherd, seek me out and bring me home in accord with Your will.* 
+
+*Let me dwell in Your house all the days of my life and praise You for ever* 
+
+*and ever with those who are there.*
 
 ![[media/IgnorantiaScripturarumEstIgnorantiaChristi.jpg|512]]
 
 ***SANTCE AVGVSTINE, ORA PRO NOBIS***
 
-*I know not, Lord, 
-I know not any other such pure words, 
-which so persuade me to confess, 
-and make my neck pliant to Thy yoke, 
-and invite me to serve Thee for nought. 
-Let me understand them, good Father: grant this to me,
-who am placed under them:
-because for those placed under them, hast Thou established them.*
+*I know not, Lord,*
+
+*I know not any other such pure words,* 
+
+*which so persuade me to confess,* 
+
+*and make my neck pliant to Thy yoke,* 
+
+*and invite me to serve Thee for nought.* 
+
+*Let me understand them, good Father: grant this to me,*
+
+*who am placed under them:*
+
+*because for those placed under them, hast Thou established them.*
 
 ![[media/TolleLege.jpg|512]]
 
 ***SANTCE THOMAE AQVINATIS, ORA PRO NOBIS***
 
-*Creator of all things,
-true Source of light and wisdom,
-lofty origin of all being,
-graciously let a ray of Your brilliance
-penetrate into the darkness of my understanding
-and take from me the double darkness
-in which I have been born,
-an obscurity of both sin and ignorance.*
+*Creator of all things,*
+
+*true Source of light and wisdom,*
+
+*lofty origin of all being,*
+
+*graciously let a ray of Your brilliance*
+
+*penetrate into the darkness of my understanding*
+
+*and take from me the double darkness*
+
+*in which I have been born,*
+
+*an obscurity of both sin and ignorance.*
 
 ![[media/BeneScripsistiDeMe.jpg|512]]
