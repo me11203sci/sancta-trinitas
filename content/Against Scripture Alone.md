@@ -94,6 +94,7 @@ Luke 24:47-50
 - Authentic
 - Notes of credibility
 John 20:21-23
-- Authority
+John 21:15-17
+- authority
 
 Rules of faith: remote (scripture and tradition) and proximate (magisterium.)
